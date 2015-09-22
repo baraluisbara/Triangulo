@@ -1,0 +1,8 @@
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.exe.config
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.exe
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.pdb
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.Form1.resources
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.Properties.Resources.resources
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.csproj.GenerateResource.Cache
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.exe
+c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.pdb
