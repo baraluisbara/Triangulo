@@ -6,3 +6,12 @@ c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarT
 c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.csproj.GenerateResource.Cache
 c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.exe
 c:\users\lbaracaldo.wtlbaracaldo\documents\visual studio 2013\Projects\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.pdb
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.exe.config
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.exe
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.pdb
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.exe
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\bin\Debug\GraficarTriangulo.pdb
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.csprojResolveAssemblyReference.cache
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.Form1.resources
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.Properties.Resources.resources
+F:\Git\Triangulo\GraficarTriangulo\GraficarTriangulo\obj\Debug\GraficarTriangulo.csproj.GenerateResource.Cache

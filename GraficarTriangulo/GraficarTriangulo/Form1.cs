@@ -18,16 +18,23 @@ namespace GraficarTriangulo
         }
 
         Graphics Gr;
+        Random Rnd = new Random();
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            txt1.Text = Rnd.Next(0, 300).ToString();
+            txt2.Text = Rnd.Next(0, 300).ToString();
+            txt3.Text = Rnd.Next(0, 300).ToString();
+            txt4.Text = Rnd.Next(0, 300).ToString();
+            txt5.Text = Rnd.Next(0, 300).ToString();
+            txt6.Text = Rnd.Next(0, 300).ToString();
+            //MessageBox.Show("Ya los hice random");
+            //DrawLines();
         }
 
         private void btnLines_Click(object sender, EventArgs e)
         {
-
             DrawLines();
-
         }
 
         private void btnSumX1_Click(object sender, EventArgs e)
