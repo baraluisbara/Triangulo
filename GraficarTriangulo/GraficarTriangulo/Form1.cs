@@ -156,5 +156,15 @@ namespace GraficarTriangulo
             }
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            txt1.Text = Rnd.Next(0, 300).ToString();
+            txt2.Text = Rnd.Next(0, 300).ToString();
+            txt3.Text = Rnd.Next(0, 300).ToString();
+            txt4.Text = Rnd.Next(0, 300).ToString();
+            txt5.Text = Rnd.Next(0, 300).ToString();
+            txt6.Text = Rnd.Next(0, 300).ToString();
+        }
     }
 }
